@@ -1,0 +1,20 @@
+{
+  "posts": 2513,
+  "comments": 57487,
+  "users": 10171,
+  "nodes": 6868,
+  "edges": 34081,
+  "density": 0.00072,
+  "n_topics": 8,
+  "n_communities": 30,
+  "modularity": 0.428,
+  "NMI": 0.02,
+  "ARI": 0.009,
+  "reciprocity": 0.447,
+  "mean_clustering": 0.002,
+  "degree_assortativity": 0.087,
+  "utterances": 60000,
+  "date_min": "2009-09-04 08:01:05",
+  "date_max": "2018-10-31 21:56:02",
+  "lda_perplexity": 3564.4
+}
