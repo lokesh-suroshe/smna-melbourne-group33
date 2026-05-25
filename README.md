@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Listening to the City — r/melbourne (COSC 2671 Assignment 2)
 
 ## What this is
