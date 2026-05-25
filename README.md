@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Listening to the City — r/melbourne (COSC 2671 Assignment 2)
 
 ## What this is
@@ -39,3 +40,6 @@ Python notebook pipeline for **RQ1** (LDA topics), **RQ2** (VADER sentiment + su
 - `figures/`
 - `results/` (sample + summary)
 - Report PDF and Worksheet are submitted separately on Canvas.
+=======
+# smna-melbourne-group33
+>>>>>>> e5e593e0e5d46eaef03a7507390a6ec892de918b
